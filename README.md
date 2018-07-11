@@ -1,4 +1,4 @@
-# CSS Box Style Code Along
+n# CSS Box Style Code Along
 
 ## Overview
 
@@ -10,7 +10,7 @@ working from your personal `exceptional-realty` repository:
 
 ```
 git clone https://github.com/<your_username_here>/exceptional-realty
-cd exceptional-realty
+cd exceptional-realty.
 ```
 
 We'll work on a new branch in this code along, so go ahead and create a branch
